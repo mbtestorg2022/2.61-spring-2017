@@ -4,32 +4,354 @@ title: Calendar
 uid: 70fd8ba8-d583-c52b-8c13-a73d28ce54cf
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| Lec 1 | Introduction to SI and DI engines | &nbsp; |
-| Lec 2 | Engine operating characteristics | &nbsp; |
-| Lec 3 | Ideal cycle analysis | &nbsp; |
-| Lab 1 | Disassembly and assembly of engines | &nbsp; |
-| Lec 4 | Combustion and thermochemistry |  {{< br >}}{{< br >}} Homework 1 due  {{< br >}}Lab report 1 due {{< br >}}{{< br >}}  |
-| Lec 5 | Kinetics, equilibrium and dissociation | &nbsp; |
-| Lec 6 | Gas properties and fuel - air cycle; cycle simulation | Homework 2 due |
-| Lec 7 | Mixture preparation in SI engines | &nbsp; |
-| Lec 8 | Intake and exhaust processes | Homework 3 due |
-| Lec 9 | SI engine combustion | &nbsp; |
-| Quiz | Covering Lectures 1 - 6 |  {{< br >}}{{< br >}} Homework 4 due {{< br >}}{{< br >}}  |
-| Lec 10 | SI engine combustion (cont.); knock | &nbsp; |
-| Lec 11 | SI engine emissions | Homework 5 due |
-| Lab 2 | Engine performance and emissions measurements | &nbsp; |
-| Lab 2 (cont.) | Engine performance and emissions measurements (cont.) | &nbsp; |
-| Lec 12 | SI engine emissions (cont.) | Homework 6 due |
-| Lec 13 | SI engine emissions control | &nbsp; |
-| Lec 14 | Emission measurements | &nbsp; |
-| Lec 15 | Diesel engine characteristics | Homework 7 due |
-| Lec 16 | Diesel engine: injection, ignition and combustion | Lab report 2 due |
-| Lec 17 | Diesel engine emissions and control | &nbsp; |
-| Lec 18 | Engine heat transfer | &nbsp; |
-| Lec 19 | Engine friction and tribology | Homework 8 due |
-| Lec 20 | Turbocharging | &nbsp; |
-| Lec 21 | Hydrogen, fuel cell and battery | Homework 9 due |
-| Lec 22 | Bio fuels and hybrids | &nbsp; |
-| Exam | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to SI and DI engines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+Engine operating characteristics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal cycle analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+Disassembly and assembly of engines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+Combustion and thermochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due  
+Lab report 1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics, equilibrium and dissociation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+Gas properties and fuel - air cycle; cycle simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Mixture preparation in SI engines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+Intake and exhaust processes
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 9
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine combustion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+Covering Lectures 1 - 6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine combustion (cont.); knock
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 11
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine emissions
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Engine performance and emissions measurements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Engine performance and emissions measurements (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 12
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine emissions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 13
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine emissions control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 14
+{{< tdclose >}}
+{{< tdopen >}}
+Emission measurements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 15
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel engine characteristics
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 16
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel engine: injection, ignition and combustion
+{{< tdclose >}}
+{{< tdopen >}}
+Lab report 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 17
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel engine emissions and control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 18
+{{< tdclose >}}
+{{< tdopen >}}
+Engine heat transfer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 19
+{{< tdclose >}}
+{{< tdopen >}}
+Engine friction and tribology
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 20
+{{< tdclose >}}
+{{< tdopen >}}
+Turbocharging
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 21
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen, fuel cell and battery
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 22
+{{< tdclose >}}
+{{< tdopen >}}
+Bio fuels and hybrids
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
