@@ -13,27 +13,290 @@ Heywood, J. B. _Internal Combustion Engine Fundamentals_. New York, NY: McGraw-H
 
 For further reading on internal combustion engines, an annotated [bibliography (PDF)]({{< baseurl >}}/resources/ice_bibliography) is available.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to SI and DI engines | Chapter 1 |
-| 2 | Engine operating characteristics | Chapter 2.1 - 2.15 |
-| 3 | Ideal cycle analysis | Chapter 5.1 - 5.4 |
-| 4 | Combustion and thermochemistry | Chapter 3.1 - 3.5 |
-| 5 | Kinetics, equilibrium and dissociation | Chapter 3.7 |
-| 6 | Gas properties and fuel - air cycle; cycle simulation |  {{< br >}}{{< br >}} Chapter 4   {{< br >}}Chapter 5.5 & 5.8 {{< br >}}{{< br >}}  |
-| 7 | Mixture preparation in SI engines | Chapter 6.1 - 6.7 |
-| 8 | Intake and exhaust processes | Chapter 7 |
-| 9 | SI engine combustion | Chapter 9.1 - 9.5 |
-| 10 | SI engine combustion (cont.); knock | Chapter 9.6 |
-| 11 | SI engine emissions | Chapter 11.1 - 11.2.3; 11.3 |
-| 12 | SI engine emissions (cont.) | Chapter 11.4 - 11.4.3 |
-| 13 | SI engine emissions control |  \[No readings\] |
-| 14 | Emission measurements |  \[No readings\] |
-| 15 | Diesel engine characteristics | Chapter 10.1 - 10.4 |
-| 16 | Diesel engine: injection, ignition and combustion | Chapter 10.5 - 10.7 |
-| 17 | Diesel engine emissions and control | Chapter 11.2.4 - 11.4.4 |
-| 18 | Engine heat transfer | Chapter 12 |
-| 19 | Engine friction and tribology | Chapter 13 |
-| 20 | Turbocharging | Chapter 6.8 |
-| 21 | Hydrogen, fuel cell and battery |  \[No readings\] |
-| 22 | Bio fuels and hybrids |  \[No readings\]
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to SI and DI engines
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Engine operating characteristics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2.1 - 2.15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal cycle analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.1 - 5.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Combustion and thermochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.1 - 3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics, equilibrium and dissociation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Gas properties and fuel - air cycle; cycle simulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 4   
+Chapter 5.5 & 5.8
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Mixture preparation in SI engines
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.1 - 6.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Intake and exhaust processes
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine combustion
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9.1 - 9.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine combustion (cont.); knock
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine emissions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11.1 - 11.2.3; 11.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine emissions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11.4 - 11.4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+SI engine emissions control
+{{< tdclose >}}
+{{< tdopen >}}
+ \[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Emission measurements
+{{< tdclose >}}
+{{< tdopen >}}
+ \[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel engine characteristics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10.1 - 10.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel engine: injection, ignition and combustion
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10.5 - 10.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Diesel engine emissions and control
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11.2.4 - 11.4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Engine heat transfer
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Engine friction and tribology
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Turbocharging
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen, fuel cell and battery
+{{< tdclose >}}
+{{< tdopen >}}
+ \[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Bio fuels and hybrids
+{{< tdclose >}}
+{{< tdopen >}}
+ \[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
